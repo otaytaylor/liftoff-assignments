@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project idea is to make an application that will match the user to a few dog breeds that will match the user based on their personality and lifestyle. It will be in a quiz type style with 10-15 questions. At the end of the quiz it will show 3 or 4 dog breeds and the information about those dogs. The user can also decide if they want to create an account to save their results or just use the site as a guest. 
+
 ### Features
-Include Features here
+User login: user can create an account and have their own account
+All dog breed page: will show all dog breeds and when you click on it, it will show information about that breed
+Search: Users can search for a dog breed and learn about that breed
+Quiz: asks the user a series of questions to see what breed fits them best
+
 ### Technologies
-Include Technologies here
+Java
+HTML
+Springboot
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn on how to take the quiz information and make it match with the dog breeds the best fits the answers
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/IEQeuroo/liftoff-project
